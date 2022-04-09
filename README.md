@@ -28,9 +28,6 @@ In this course, you will do the following :
 ## PRE-REQUISITES
 There are no prequisites for this course.
 
-
-
 ## RESULT
-
 Test Cases passed successfully.
 
