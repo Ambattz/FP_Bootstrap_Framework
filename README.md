@@ -1,11 +1,10 @@
 # FP_Bootstrap_Framework
-
 Fresco Play TCS Bootstrap Challenge | Bootstrap | Created by Ambattz | 2022 |
-
-Bootstrap 3 is a free, open-source and intuitive mobile first front-end framework for quicker and easier web development. It was developed by Jacob Thornton and Mark Otto at Twitter.
 
 ## TOPICS
 ### Bootstrap Framework
+Bootstrap 3 is a free, open-source and intuitive mobile first front-end framework for quicker and easier web development. It was developed by Jacob Thornton and Mark Otto at Twitter.
+
 In this course, you will do the following :
 
   * Practice Bootstrap Typography
@@ -17,9 +16,9 @@ In this course, you will do the following :
 
 01 You need to follow these steps otherwise you will face some server issues even hands-On code is right. 
 
-    Step 1: Run --- Install
+    Step 1: Run ---- Install
     Step 2: Run ---- Run
-    Step 3: Run Tests 
+    Step 3: Run ---- Tests 
     
 02 Do this steps before pasting code after Run Tests to check the test cases passed
 
