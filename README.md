@@ -7,7 +7,7 @@ Bootstrap 3 is a free, open-source and intuitive mobile first front-end framewor
 There are no prequisites for this course.
 
 ## TOPICS
-### BootstrapFramework
+### Bootstrap Framework
 In this course, you will do the following :
 
   * Practice Bootstrap Typography
